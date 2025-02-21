@@ -1,6 +1,6 @@
 # Introduction to JAX
 
-This repository provides a short, comprehensive notebook introducing you to [JAX](https://github.com/jax-ml/jax).
+This repository provides a short, comprehensive notebook introducing you to [JAX](https://github.com/jax-ml/jax). With a healthy dose of caffeine! ☕
 
 ## What you'll learn
 
@@ -25,4 +25,4 @@ Mostly one reason: JAX makes things run *fast*.
 
 Aside from that, JAX makes it a real joy to handle batch dimensions, gradients, and arbitrary datastructures. Trust me, you don't know what you're missing out on here. It's fantastic.
 
-Honestly, just give JAX a try! You can't know that you don't like something if you haven't tried it out. *(triple negation, whoops!)*
+Honestly, just give it a shot! You know what they say: don't judge a brew before the first sip.
